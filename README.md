@@ -1,14 +1,15 @@
 # Fl0wj0b
-#### For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
+
 ## Educational purposes only
 
-Fl0wj0b est un script qui permet d'extraire des informations d'annuaires et de les exporter en csv
+Fl0wj0b is a script that allows you to extract information from directories and export it to .csv
+
 ## 💡 Prérequis
    [Python 3.x](https://www.python.org/downloads/release/python-370/)
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/megadose/Fl0wj0b.git
+git clone https://github.com/LeakForge/Fl0wj0b.git
 cd Fl0wj0b/
 pip3 install -r requirements.txt
 ```
